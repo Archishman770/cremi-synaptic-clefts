@@ -1,0 +1,17 @@
+checkpoint,threshold,min_size,seed,sample,ADGT_nm,ADF_nm,CREMI_nm
+Stage 1 iter 1k,-0.6,0,,A,640.93,35.72,338.32
+Stage 1 iter 1k,-0.6,0,,B,352.88,15.14,184.01
+Stage 1 iter 1k,-0.6,0,,C,245.76,35.47,140.61
+Stage 1 iter 1k,-0.6,0,,avg,,,220.98
+Stage 1 iter 4k,0.1,0,,A,533.05,62.25,297.65
+Stage 1 iter 4k,0.1,0,,B,216.78,25.22,121.0
+Stage 1 iter 4k,0.1,0,,C,166.2,28.89,97.54
+Stage 1 iter 4k,0.1,0,,avg,,,172.06
+Stage 1 iter 8k,0.0,0,,A,393.63,81.22,237.42
+Stage 1 iter 8k,0.0,0,,B,141.27,14.22,77.74
+Stage 1 iter 8k,0.0,0,,C,108.23,15.01,61.62
+Stage 1 iter 8k,0.0,0,,avg,,,125.6
+Stage 2 fine-tuned,-0.2,0,,A,289.48,111.32,200.4
+Stage 2 fine-tuned,-0.2,0,,B,94.19,12.07,53.13
+Stage 2 fine-tuned,-0.2,0,,C,91.29,16.13,53.71
+Stage 2 fine-tuned,-0.2,0,,avg,,,102.41

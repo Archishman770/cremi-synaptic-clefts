@@ -1,0 +1,5 @@
+data/
+runs/cache/
+*.npy
+__pycache__/
+.DS_Store

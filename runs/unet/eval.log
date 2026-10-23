@@ -1,0 +1,90 @@
+predicted val A (25, 1250, 1250) in 401s
+predicted val B (25, 1250, 1250) in 386s
+predicted val C (25, 1250, 1250) in 346s
+th -0.3 seed None min     0  CREMI  130.16  A: 229.3 (ADGT 416.0, ADF 42.6)  B: 96.5 (ADGT 188.1, ADF 5.0)  C: 64.7 (ADGT 121.4, ADF 7.9)
+th -0.3 seed None min   500  CREMI  129.62  A: 231.7 (ADGT 411.1, ADF 52.3)  B: 94.1 (ADGT 183.1, ADF 5.2)  C: 63.0 (ADGT 117.8, ADF 8.3)
+th -0.3 seed 0.3 min     0  CREMI  322.88  A: 743.0 (ADGT 162.9, ADF 1323.1)  B: 131.3 (ADGT 99.9, ADF 162.8)  C: 94.3 (ADGT 100.9, ADF 87.7)
+th -0.3 seed 0.3 min   500  CREMI  322.88  A: 743.0 (ADGT 162.9, ADF 1323.1)  B: 131.3 (ADGT 99.9, ADF 162.8)  C: 94.3 (ADGT 100.9, ADF 87.7)
+th -0.3 seed 0.5 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.3 seed 0.5 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.3 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.3 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.2 seed None min     0  CREMI  128.25  A: 231.7 (ADGT 408.8, ADF 54.5)  B: 90.1 (ADGT 173.6, ADF 6.7)  C: 63.0 (ADGT 116.6, ADF 9.3)
+th -0.2 seed None min   500  CREMI  128.94  A: 237.2 (ADGT 401.7, ADF 72.7)  B: 87.8 (ADGT 168.7, ADF 6.8)  C: 61.9 (ADGT 113.3, ADF 10.4)
+th -0.2 seed 0.3 min     0  CREMI  338.02  A: 786.1 (ADGT 203.4, ADF 1368.8)  B: 131.9 (ADGT 95.1, ADF 168.7)  C: 96.1 (ADGT 100.9, ADF 91.2)
+th -0.2 seed 0.3 min   500  CREMI  338.02  A: 786.1 (ADGT 203.4, ADF 1368.8)  B: 131.9 (ADGT 95.1, ADF 168.7)  C: 96.1 (ADGT 100.9, ADF 91.2)
+th -0.2 seed 0.5 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.2 seed 0.5 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.2 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.2 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.1 seed None min     0  CREMI  126.54  A: 233.3 (ADGT 402.7, ADF 64.0)  B: 84.1 (ADGT 158.9, ADF 9.3)  C: 62.2 (ADGT 112.9, ADF 11.5)
+th -0.1 seed None min   500  CREMI  131.52  A: 251.0 (ADGT 399.7, ADF 102.4)  B: 81.9 (ADGT 152.8, ADF 11.1)  C: 61.6 (ADGT 110.5, ADF 12.7)
+th -0.1 seed 0.3 min     0  CREMI  339.90  A: 789.3 (ADGT 199.7, ADF 1378.8)  B: 132.2 (ADGT 87.8, ADF 176.6)  C: 98.2 (ADGT 102.1, ADF 94.4)
+th -0.1 seed 0.3 min   500  CREMI  339.90  A: 789.3 (ADGT 199.7, ADF 1378.8)  B: 132.2 (ADGT 87.8, ADF 176.6)  C: 98.2 (ADGT 102.1, ADF 94.4)
+th -0.1 seed 0.5 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.1 seed 0.5 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.1 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th -0.1 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.0 seed None min     0  CREMI  125.60  A: 237.4 (ADGT 393.6, ADF 81.2)  B: 77.7 (ADGT 141.3, ADF 14.2)  C: 61.6 (ADGT 108.2, ADF 15.0)
+th +0.0 seed None min   500  CREMI  146.67  A: 304.5 (ADGT 392.0, ADF 217.0)  B: 75.3 (ADGT 133.7, ADF 17.0)  C: 60.1 (ADGT 103.5, ADF 16.8)
+th +0.0 seed 0.3 min     0  CREMI  343.82  A: 790.8 (ADGT 193.3, ADF 1388.3)  B: 138.4 (ADGT 86.2, ADF 190.6)  C: 102.3 (ADGT 105.1, ADF 99.4)
+th +0.0 seed 0.3 min   500  CREMI  343.82  A: 790.8 (ADGT 193.3, ADF 1388.3)  B: 138.4 (ADGT 86.2, ADF 190.6)  C: 102.3 (ADGT 105.1, ADF 99.4)
+th +0.0 seed 0.5 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.0 seed 0.5 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.0 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.0 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.1 seed None min     0  CREMI  128.66  A: 247.4 (ADGT 363.3, ADF 131.5)  B: 74.6 (ADGT 124.1, ADF 25.0)  C: 64.0 (ADGT 105.3, ADF 22.6)
+th +0.1 seed None min   500  CREMI  162.72  A: 343.1 (ADGT 331.1, ADF 355.1)  B: 77.1 (ADGT 113.4, ADF 40.7)  C: 68.0 (ADGT 102.0, ADF 34.0)
+th +0.1 seed 0.3 min     0  CREMI  350.30  A: 797.0 (ADGT 178.0, ADF 1416.0)  B: 144.6 (ADGT 84.9, ADF 204.4)  C: 109.3 (ADGT 108.3, ADF 110.2)
+th +0.1 seed 0.3 min   500  CREMI  350.30  A: 797.0 (ADGT 178.0, ADF 1416.0)  B: 144.6 (ADGT 84.9, ADF 204.4)  C: 109.3 (ADGT 108.3, ADF 110.2)
+th +0.1 seed 0.5 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.1 seed 0.5 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.1 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.1 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.2 seed None min     0  CREMI  162.62  A: 320.1 (ADGT 267.4, ADF 372.9)  B: 97.0 (ADGT 116.7, ADF 77.4)  C: 70.7 (ADGT 86.0, ADF 55.4)
+th +0.2 seed None min   500  CREMI  321.94  A: 719.1 (ADGT 115.8, ADF 1322.4)  B: 151.2 (ADGT 103.7, ADF 198.8)  C: 95.5 (ADGT 90.5, ADF 100.4)
+th +0.2 seed 0.3 min     0  CREMI  366.09  A: 808.9 (ADGT 142.5, ADF 1475.4)  B: 175.3 (ADGT 94.1, ADF 256.5)  C: 114.1 (ADGT 73.9, ADF 154.2)
+th +0.2 seed 0.3 min   500  CREMI  369.37  A: 808.9 (ADGT 142.5, ADF 1475.4)  B: 174.8 (ADGT 93.2, ADF 256.5)  C: 124.3 (ADGT 74.9, ADF 173.7)
+th +0.2 seed 0.5 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.2 seed 0.5 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.2 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.2 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.3 seed None min     0  CREMI  459.24  A: 1030.9 (ADGT 479.3, ADF 1582.4)  B: 220.1 (ADGT 106.0, ADF 334.2)  C: 126.7 (ADGT 43.9, ADF 209.6)
+th +0.3 seed None min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: 1598.4 (ADGT 193.5, ADF 3003.3)  C: 654.2 (ADGT 16.6, ADF 1291.9)
+th +0.3 seed 0.5 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.3 seed 0.5 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.3 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.3 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.4 seed None min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.4 seed None min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.4 seed 0.5 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.4 seed 0.5 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.4 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.4 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.5 seed None min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.5 seed None min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.5 seed 0.7 min     0  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+th +0.5 seed 0.7 min   500  CREMI     inf  A: inf (ADGT 0.0, ADF inf)  B: inf (ADGT 0.0, ADF inf)  C: inf (ADGT 0.0, ADF inf)
+BEST {
+ "thresh": 0.0,
+ "seed": null,
+ "min_size": 0,
+ "avg_CREMI": 125.59622463371839,
+ "per_sample": {
+  "A": {
+   "ADGT": 393.62564319103274,
+   "ADF": 81.2171428472314,
+   "CREMI": 237.42139301913207
+  },
+  "B": {
+   "ADGT": 141.26618096379715,
+   "ADF": 14.22181244713755,
+   "CREMI": 77.74399670546735
+  },
+  "C": {
+   "ADGT": 108.23458696833575,
+   "ADF": 15.011981384775716,
+   "CREMI": 61.62328417655573
+  }
+ }
+}

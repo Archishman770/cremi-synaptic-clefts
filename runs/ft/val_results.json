@@ -1,0 +1,1499 @@
+{
+ "grid": [
+  {
+   "thresh": -0.3,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": 102.44910028757192,
+   "per_sample": {
+    "A": {
+     "ADGT": 299.837167979471,
+     "ADF": 96.60938376767277,
+     "CREMI": 198.22327587357188
+    },
+    "B": {
+     "ADGT": 106.65435616512549,
+     "ADF": 8.349153551734524,
+     "CREMI": 57.501754858430004
+    },
+    "C": {
+     "ADGT": 91.34259406478311,
+     "ADF": 11.901946196644644,
+     "CREMI": 51.62227013071388
+    }
+   }
+  },
+  {
+   "thresh": -0.3,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": 102.60903376705421,
+   "per_sample": {
+    "A": {
+     "ADGT": 295.25721816526453,
+     "ADF": 106.6393535050318,
+     "CREMI": 200.94828583514817
+    },
+    "B": {
+     "ADGT": 100.79783876305359,
+     "ADF": 9.915236001655924,
+     "CREMI": 55.35653738235476
+    },
+    "C": {
+     "ADGT": 89.69655965526441,
+     "ADF": 13.347996512055015,
+     "CREMI": 51.522278083659714
+    }
+   }
+  },
+  {
+   "thresh": -0.3,
+   "seed": 0.3,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 41.91666944988922,
+     "ADF": 699.2514263264887,
+     "CREMI": 370.584047888189
+    },
+    "C": {
+     "ADGT": 32.600903023487,
+     "ADF": 226.54548851584346,
+     "CREMI": 129.57319576966523
+    }
+   }
+  },
+  {
+   "thresh": -0.3,
+   "seed": 0.3,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 41.91666944988922,
+     "ADF": 699.2514263264887,
+     "CREMI": 370.584047888189
+    },
+    "C": {
+     "ADGT": 32.600903023487,
+     "ADF": 226.54548851584346,
+     "CREMI": 129.57319576966523
+    }
+   }
+  },
+  {
+   "thresh": -0.3,
+   "seed": 0.5,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.3,
+   "seed": 0.5,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.3,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.3,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.2,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": 102.41421911065486,
+   "per_sample": {
+    "A": {
+     "ADGT": 289.48363587738527,
+     "ADF": 111.32098933323846,
+     "CREMI": 200.40231260531186
+    },
+    "B": {
+     "ADGT": 94.18715766341609,
+     "ADF": 12.071364523914156,
+     "CREMI": 53.12926109366512
+    },
+    "C": {
+     "ADGT": 91.28772163850219,
+     "ADF": 16.134445627472996,
+     "CREMI": 53.711083632987595
+    }
+   }
+  },
+  {
+   "thresh": -0.2,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": 124.76743849133567,
+   "per_sample": {
+    "A": {
+     "ADGT": 279.072870071614,
+     "ADF": 255.87800108641505,
+     "CREMI": 267.4754355790145
+    },
+    "B": {
+     "ADGT": 88.73336415247056,
+     "ADF": 14.936585134741591,
+     "CREMI": 51.834974643606074
+    },
+    "C": {
+     "ADGT": 90.18213806109033,
+     "ADF": 19.80167244168247,
+     "CREMI": 54.9919052513864
+    }
+   }
+  },
+  {
+   "thresh": -0.2,
+   "seed": 0.3,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 40.65733186041195,
+     "ADF": 704.9722998328025,
+     "CREMI": 372.81481584660725
+    },
+    "C": {
+     "ADGT": 31.665897624436145,
+     "ADF": 241.90021722396656,
+     "CREMI": 136.78305742420136
+    }
+   }
+  },
+  {
+   "thresh": -0.2,
+   "seed": 0.3,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 40.65733186041195,
+     "ADF": 704.9722998328025,
+     "CREMI": 372.81481584660725
+    },
+    "C": {
+     "ADGT": 31.665897624436145,
+     "ADF": 241.90021722396656,
+     "CREMI": 136.78305742420136
+    }
+   }
+  },
+  {
+   "thresh": -0.2,
+   "seed": 0.5,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.2,
+   "seed": 0.5,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.2,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.2,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.1,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": 103.33718504671428,
+   "per_sample": {
+    "A": {
+     "ADGT": 268.2473237531141,
+     "ADF": 137.36006451334808,
+     "CREMI": 202.8036941332311
+    },
+    "B": {
+     "ADGT": 84.24777046216558,
+     "ADF": 17.23688106049439,
+     "CREMI": 50.74232576132998
+    },
+    "C": {
+     "ADGT": 91.01489599416281,
+     "ADF": 21.91617449700066,
+     "CREMI": 56.465535245581734
+    }
+   }
+  },
+  {
+   "thresh": -0.1,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": 138.44363808325383,
+   "per_sample": {
+    "A": {
+     "ADGT": 261.7744205129152,
+     "ADF": 347.8150493248543,
+     "CREMI": 304.7947349188847
+    },
+    "B": {
+     "ADGT": 81.2878554375969,
+     "ADF": 25.174030876495216,
+     "CREMI": 53.230943157046056
+    },
+    "C": {
+     "ADGT": 89.13667960280601,
+     "ADF": 25.47379274485529,
+     "CREMI": 57.30523617383065
+    }
+   }
+  },
+  {
+   "thresh": -0.1,
+   "seed": 0.3,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 39.96512340675082,
+     "ADF": 714.1662994683797,
+     "CREMI": 377.06571143756526
+    },
+    "C": {
+     "ADGT": 30.0287023776544,
+     "ADF": 249.67904862479307,
+     "CREMI": 139.85387550122374
+    }
+   }
+  },
+  {
+   "thresh": -0.1,
+   "seed": 0.3,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 39.96512340675082,
+     "ADF": 714.1662994683797,
+     "CREMI": 377.06571143756526
+    },
+    "C": {
+     "ADGT": 30.0287023776544,
+     "ADF": 249.67904862479307,
+     "CREMI": 139.85387550122374
+    }
+   }
+  },
+  {
+   "thresh": -0.1,
+   "seed": 0.5,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.1,
+   "seed": 0.5,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.1,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": -0.1,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.0,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": 123.19707241228537,
+   "per_sample": {
+    "A": {
+     "ADGT": 219.6729806477599,
+     "ADF": 295.2283460952274,
+     "CREMI": 257.45066337149365
+    },
+    "B": {
+     "ADGT": 76.57131180762008,
+     "ADF": 28.332867752279217,
+     "CREMI": 52.452089779949645
+    },
+    "C": {
+     "ADGT": 91.09035617151224,
+     "ADF": 28.286571999313455,
+     "CREMI": 59.688464085412846
+    }
+   }
+  },
+  {
+   "thresh": 0.0,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": 150.6109851814334,
+   "per_sample": {
+    "A": {
+     "ADGT": 172.46517740101123,
+     "ADF": 482.5804118757186,
+     "CREMI": 327.5227946383649
+    },
+    "B": {
+     "ADGT": 72.15031834597018,
+     "ADF": 53.337019402298566,
+     "CREMI": 62.74366887413437
+    },
+    "C": {
+     "ADGT": 89.79361211944993,
+     "ADF": 33.33937194415179,
+     "CREMI": 61.56649203180086
+    }
+   }
+  },
+  {
+   "thresh": 0.0,
+   "seed": 0.3,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 45.45485048097517,
+     "ADF": 761.319154305365,
+     "CREMI": 403.3870023931701
+    },
+    "C": {
+     "ADGT": 28.38201028043437,
+     "ADF": 269.1322059352328,
+     "CREMI": 148.75710810783357
+    }
+   }
+  },
+  {
+   "thresh": 0.0,
+   "seed": 0.3,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 45.45485048097517,
+     "ADF": 761.319154305365,
+     "CREMI": 403.3870023931701
+    },
+    "C": {
+     "ADGT": 28.38201028043437,
+     "ADF": 269.1322059352328,
+     "CREMI": 148.75710810783357
+    }
+   }
+  },
+  {
+   "thresh": 0.0,
+   "seed": 0.5,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.0,
+   "seed": 0.5,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.0,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.0,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.1,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": 141.91188382649992,
+   "per_sample": {
+    "A": {
+     "ADGT": 159.95798081003105,
+     "ADF": 438.8739971120549,
+     "CREMI": 299.41598896104296
+    },
+    "B": {
+     "ADGT": 81.04459316394711,
+     "ADF": 54.77762795083437,
+     "CREMI": 67.91111055739074
+    },
+    "C": {
+     "ADGT": 73.80280018927446,
+     "ADF": 43.014303732857655,
+     "CREMI": 58.40855196106606
+    }
+   }
+  },
+  {
+   "thresh": 0.1,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": 303.016314598421,
+   "per_sample": {
+    "A": {
+     "ADGT": 142.51007435672992,
+     "ADF": 1284.0671901963794,
+     "CREMI": 713.2886322765547
+    },
+    "B": {
+     "ADGT": 76.26080619637801,
+     "ADF": 173.47868268557437,
+     "CREMI": 124.86974444097619
+    },
+    "C": {
+     "ADGT": 72.69708531914694,
+     "ADF": 69.08404883631721,
+     "CREMI": 70.89056707773207
+    }
+   }
+  },
+  {
+   "thresh": 0.1,
+   "seed": 0.3,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 56.19004047076351,
+     "ADF": 797.5004580156176,
+     "CREMI": 426.84524924319055
+    },
+    "C": {
+     "ADGT": 10.399799383577257,
+     "ADF": 289.7412977890269,
+     "CREMI": 150.07054858630207
+    }
+   }
+  },
+  {
+   "thresh": 0.1,
+   "seed": 0.3,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 56.19004047076351,
+     "ADF": 797.5004580156176,
+     "CREMI": 426.84524924319055
+    },
+    "C": {
+     "ADGT": 10.399799383577257,
+     "ADF": 289.7412977890269,
+     "CREMI": 150.07054858630207
+    }
+   }
+  },
+  {
+   "thresh": 0.1,
+   "seed": 0.5,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.1,
+   "seed": 0.5,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.1,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.1,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.2,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": 270.7093916594243,
+   "per_sample": {
+    "A": {
+     "ADGT": 263.82909819899953,
+     "ADF": 949.3177491871834,
+     "CREMI": 606.5734236930914
+    },
+    "B": {
+     "ADGT": 93.13558911921515,
+     "ADF": 192.31790424478032,
+     "CREMI": 142.72674668199772
+    },
+    "C": {
+     "ADGT": 26.17070888799738,
+     "ADF": 99.48530031837015,
+     "CREMI": 62.828004603183764
+    }
+   }
+  },
+  {
+   "thresh": 0.2,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 67.09854991567838,
+     "ADF": 1025.533884559925,
+     "CREMI": 546.3162172378017
+    },
+    "C": {
+     "ADGT": 4.100076872581951,
+     "ADF": 411.79812530050725,
+     "CREMI": 207.9491010865446
+    }
+   }
+  },
+  {
+   "thresh": 0.2,
+   "seed": 0.3,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 59.329493055772,
+     "ADF": 878.5343274796747,
+     "CREMI": 468.93191026772337
+    },
+    "C": {
+     "ADGT": 4.612446039096822,
+     "ADF": 365.2669489590635,
+     "CREMI": 184.93969749908015
+    }
+   }
+  },
+  {
+   "thresh": 0.2,
+   "seed": 0.3,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 67.30985063517267,
+     "ADF": 1318.829017013698,
+     "CREMI": 693.0694338244352
+    },
+    "C": {
+     "ADGT": 4.0986281308017105,
+     "ADF": 453.15186172623766,
+     "CREMI": 228.6252449285197
+    }
+   }
+  },
+  {
+   "thresh": 0.2,
+   "seed": 0.5,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.2,
+   "seed": 0.5,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.2,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.2,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.3,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 104.50090864625633,
+     "ADF": 915.752583035107,
+     "CREMI": 510.1267458406817
+    },
+    "C": {
+     "ADGT": 3.388165918334833,
+     "ADF": 409.1133896075668,
+     "CREMI": 206.2507777629508
+    }
+   }
+  },
+  {
+   "thresh": 0.3,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.3,
+   "seed": 0.5,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.3,
+   "seed": 0.5,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.3,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.3,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.4,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.4,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.4,
+   "seed": 0.5,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.4,
+   "seed": 0.5,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.4,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.4,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.5,
+   "seed": null,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.5,
+   "seed": null,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.5,
+   "seed": 0.7,
+   "min_size": 0,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  },
+  {
+   "thresh": 0.5,
+   "seed": 0.7,
+   "min_size": 500,
+   "avg_CREMI": Infinity,
+   "per_sample": {
+    "A": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "B": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    },
+    "C": {
+     "ADGT": 0.0,
+     "ADF": Infinity,
+     "CREMI": Infinity
+    }
+   }
+  }
+ ],
+ "best": {
+  "thresh": -0.2,
+  "seed": null,
+  "min_size": 0,
+  "avg_CREMI": 102.41421911065486,
+  "per_sample": {
+   "A": {
+    "ADGT": 289.48363587738527,
+    "ADF": 111.32098933323846,
+    "CREMI": 200.40231260531186
+   },
+   "B": {
+    "ADGT": 94.18715766341609,
+    "ADF": 12.071364523914156,
+    "CREMI": 53.12926109366512
+   },
+   "C": {
+    "ADGT": 91.28772163850219,
+    "ADF": 16.134445627472996,
+    "CREMI": 53.711083632987595
+   }
+  }
+ }
+}
