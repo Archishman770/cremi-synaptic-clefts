@@ -145,7 +145,6 @@ python3 make_figures.py
 - **Use a bigger model and more xy context.** Many false positives need a wider field of view to rule out.
 - **Use the padded CREMI volumes** for more context at the borders, and add elastic and misalignment augmentation.
 - **Retrain on all 125 slices** for the final test model. The model here was trained on the validation split.
-- **Upload `submission/` to cremi.org** to get a real test-set score. This needs a cremi.org account.
 
 ## Data and references
 
